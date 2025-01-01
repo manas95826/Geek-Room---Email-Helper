@@ -1,6 +1,5 @@
 # Geek-Room---Email-Helper
 
-### Step 1: Prepare Your CSV File
     - Create a CSV file with required columns:
         - First name
         - Email
