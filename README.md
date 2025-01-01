@@ -1,4 +1,4 @@
-# Geek-Room---Email-Helper
+# GeekRoom-Email-Helper
 
     - Create a CSV file with required columns:
         - First name
